@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\Admin\Desktop\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\Admin\Desktop\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\Admin\Desktop\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\Admin\Desktop\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
+C:\Users\Admin\Desktop\keep_10\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\Admin\Desktop\keep_10\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\Admin\Desktop\keep_10\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\Admin\Desktop\keep_10\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\keep_10\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\keep_10\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\Admin\Desktop\keep_10\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
